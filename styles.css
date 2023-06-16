@@ -1,0 +1,78 @@
+body{
+background-color: hsl(30, 38%, 92%);
+
+}
+
+#dollar{
+   font-size: 25px;
+   color:hsl(158, 36%, 37%)
+}
+
+span{
+    font-size:18px;
+     margin-left: 20px;
+     color:hsl(228, 12%, 48%);
+}
+.all{
+ margin-left: 380px;
+ 
+
+}
+
+.m{
+background-color: white;
+border-radius: 8px;
+margin-top: 100px;
+width: 550px;
+height: 400px;
+
+}
+
+img{
+width: 275px;
+float: left;
+border-top-left-radius: 8px;
+border-bottom-left-radius: 8px;
+height: 400px;
+margin-right:25px;
+}
+
+#co{
+margin-left: 10px;
+color:hsl(228, 12%, 48%);
+letter-spacing: 5px;
+font-size: 13px;
+padding-top: 30px;
+}
+
+.co{
+color:hsl(228, 12%, 48%);
+line-height: 23px;
+margin-bottom: 10px;
+}
+
+h3{
+    margin-top: 10px;
+    font-size: 35px;
+ margin-bottom: 10px;
+    line-height: 30px;
+}
+
+button{
+ background-color: hsl(158, 36%, 37%);
+ width: 220px;
+ border: 1px;
+ height: 50px;
+ border-radius: 5px;
+ color:white;
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+padding-right: 50px;
+}
+
+#cart{
+ width: 12px;
+ padding-left: 50px;
+ height: 15px;
+}
